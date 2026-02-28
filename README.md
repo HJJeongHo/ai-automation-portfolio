@@ -158,6 +158,6 @@ ROUTING = {
 
 ## Contact
 
-- **Upwork**: [JeongHo Han — AI Automation Expert](https://www.upwork.com/freelancers/~01jeonghohan)
+- **Upwork**: [JeongHo Han — AI Automation Expert](https://www.upwork.com/freelancers/~01efa015cd580282a1)
 - **Email**: jjeongho91@gmail.com
 - **YouTube**: [@TheMoneyPlaybooks](https://youtube.com/@TheMoneyPlaybooks)
